@@ -23,6 +23,7 @@ class NewsApi {
   NewsApi({required this.time});
 
   Future<List<NewsModel>> getArticle(String search) async {
+    //don't use my api key
     String apiUrl =
         'https://newsapi.org/v2/everything?q=$search&from=$time&sortBy=publishedAt&apiKey=cf225876bbba48b39f0b09705fcc6454';
 
