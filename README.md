@@ -1,7 +1,7 @@
 # GramNews - Your Flutter News App
 
 GramNews is a Flutter-based news app that provides you with the latest news from various categories, offering a user-friendly interface similar to the Instagram news app.
-
+- <img src="https://static.vecteezy.com/system/resources/thumbnails/013/716/934/small/gm-mg-logo-design-template-vector.jpg" height="200px">
 ## Features
 
 ### News Screen
