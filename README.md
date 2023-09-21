@@ -28,16 +28,18 @@ GramNews is a Flutter-based news app that provides you with the latest news from
 - You can also read the full news article by clicking the 'Read More' button.
 
 ## Screenshots
-Screen shots are in the App Screenshots folder
+Screen shots are in the App Screenshots folder.
 
-![](App%20Screenshots/IMG_20230903_161653.jpg)
-![](App%20Screenshots/Screenshot_2023-09-03-15-41-14-710_com.example.gram_news.jpg)
-![](App%20Screenshots/Screenshot_2023-09-03-15-41-35-337_com.example.gram_news.jpg)
-![](App%20Screenshots/Screenshot_2023-09-03-15-41-56-776_com.example.gram_news.jpg)
-![](App%20Screenshots/Screenshot_2023-09-03-15-42-04-439_com.example.gram_news.jpg)
+<img src="https://firebasestorage.googleapis.com/v0/b/github-895c7.appspot.com/o/Screenshot_2023-09-03-15-41-14-710_com.example.gram_news.jpg?alt=media&token=5b99f79b-2d6e-48db-9d8c-8dcccde6bb56" height="400px">
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-895c7.appspot.com/o/Screenshot_2023-09-03-15-41-35-337_com.example.gram_news.jpg?alt=media&token=316453d9-fe11-439c-b2ef-7ba16c48d219" height="400px">
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-895c7.appspot.com/o/Screenshot_2023-09-03-15-42-04-439_com.example.gram_news.jpg?alt=media&token=12653376-7832-4ee9-b3db-ad01015babf2" height="400px">
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-895c7.appspot.com/o/Screenshot_2023-09-03-15-41-56-776_com.example.gram_news.jpg?alt=media&token=d6bd1312-0709-4cf8-9c59-281d284b370b" height="400px">
 
 ## Demo Video
-Demo video is in the Gram News Demo.mp4 folder
+Demo video is in the Gram News Demo.mp4 folder or you can directly check it [here](https://firebasestorage.googleapis.com/v0/b/github-895c7.appspot.com/o/VID_20230904_175959.mp4?alt=media&token=48dfd64e-ec92-48c6-aa91-a499e1b117a2)
 
 ## Contact
 
